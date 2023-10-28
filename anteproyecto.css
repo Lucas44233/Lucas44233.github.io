@@ -1,0 +1,77 @@
+h1{
+font-family: 'Open Sans', sans-serif;
+font-size: 34px;
+}
+
+h2{
+  font-family: 'Nunito', sans-serif;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2E2E2E;
+    color: #1a1919;
+}
+
+header {
+    background-color: #17A589;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em;
+}
+
+.mission-vision{
+            padding: 1rem;
+            border-top: 1px solid #cccccc;
+            border-bottom: 1px solid #cccccc;
+            color: black;
+
+ }
+
+.container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2em;
+          
+            color: black;
+}
+.containerr{
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.nav > ol {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 15px;
+}
+
+.nav2 > ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 15px;
+
+}
+
+  .semillas {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+.contenedor{
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2em;
+            background-color: #ffffff;
+}
+.tituloazul{
+  color: #0aa0d9;
+}
